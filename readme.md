@@ -35,4 +35,6 @@ Busca facilitar la comprensión de temas fundamentales del álgebra escolar medi
 - Bárbara Sofía Colina Montoya
 
 
+## Avance reciente
+Se inició la estructuración del sistema y organización del entorno de desarrollo.
 Proyecto académico desarrollado con fines educativos.
